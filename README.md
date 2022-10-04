@@ -24,12 +24,12 @@ to bottom-right corner.
 
 *start*
 
-![Start](media/start.JPG)
+![Start](media/start.jpg)
 
 *first move*
 
-![first-move](media/first-move.JPG)
+![first-move](media/first-move.jpg)
 
 *winner*
 
-![winner](media/winner.JPG)
+![winner](media/winner.jpg)
